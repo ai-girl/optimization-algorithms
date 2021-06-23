@@ -11,3 +11,5 @@
 |                            | [Newton](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/unconstrained-optimization/newtons_method.ipynb) |
 |                            | [Secant](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/unconstrained-optimization/secant_method.ipynb) |
 |                            | [Bisection](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/unconstrained-optimization/bisection_method.ipynb) |
+| Gradient Methods | [Gradient Descent](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/gradient_descent_rosenbrock.ipynb) |
+|                  | [Momentum & Nesterov's Momentum](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/nesterov_momentum_rosenbrock.ipynb) |
