@@ -14,3 +14,4 @@
 | Gradient Methods | [Gradient Descent](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/gradient_descent_rosenbrock.ipynb) |
 |                  | [Momentum & Nesterov's Momentum](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/nesterov_momentum_rosenbrock.ipynb) |
 |                  | [Conjugate Gradient](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/conjugate_gradient.ipynb) |
+|                  | [Adagrad_RMS](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/adagrad_RMS.ipynb) |
