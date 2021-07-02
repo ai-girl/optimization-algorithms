@@ -15,3 +15,4 @@
 |                  | [Momentum & Nesterov's Momentum](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/nesterov_momentum_rosenbrock.ipynb) |
 |                  | [Conjugate Gradient](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/conjugate_gradient.ipynb) |
 |                  | [Adagrad_RMS](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/adagrad_RMS.ipynb) |
+| Second Order Methods| [DFP_BFGS](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/second_order_methods/DFP_BFGS_method.ipynb) |
