@@ -1,4 +1,3 @@
 
-Direct Methods rely soley on the objective function f. These methods are also called zero-order,black-box, pattern-search or derivative-free methods. Direct methods 
-do not rely on derivative information to guide them toward a local minimum or identify when they have reached a local minimum. They use other criteria to choose the 
+Direct Methods rely soley on the objective function f. These methods are also called zero-order,black-box, pattern-search or derivative-free methods. Direct methods do not rely on derivative information to guide them toward a local minimum or identify when they have reached a local minimum. They use other criteria to choose the 
 next search direction and to judge when they are converged.
