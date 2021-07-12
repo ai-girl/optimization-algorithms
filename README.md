@@ -16,3 +16,5 @@
 |                  | [Conjugate Gradient](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/conjugate_gradient.ipynb) |
 |                  | [Adagrad_RMS](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/gradient_methods/adagrad_RMS.ipynb) |
 | Second Order Methods| [DFP_BFGS](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/second_order_methods/DFP_BFGS_method.ipynb) |
+| Direct Methods| [cyclic coordinate](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/direct_methods/cyclic_coordinate_search.ipynb) |
+|               | [Hooke Jeeves](https://nbviewer.jupyter.org/github/NasreenAhmed/optimization-algorithms/blob/main/direct_methods/hooke_jeeves.ipynb) |
